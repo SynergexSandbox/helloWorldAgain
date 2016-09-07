@@ -1,4 +1,3 @@
 # helloWorldAgain
 Testing submodules 
-Here is an edit to helloWorldAgain readme. Let's see the effects it has on the other repo and it's hooks.
-
+Here is an edit to helloWorldAgain readme. Let's see the effects it has on the other repo and it's hooks. More hooks testing.
